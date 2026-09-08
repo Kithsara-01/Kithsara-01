@@ -1,14 +1,17 @@
+<div style="background-color:#0D1117; color:#ffffff; padding:24px; border-radius:8px;">
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Kithsara%20Deshan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60" valign="top"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" /></td>
+<td valign="middle"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Kithsara%20Deshan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18" alt="header banner" width="100%"/></td>
+</tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2FA084&background=0D1117&center=true&vCenter=true&width=680&height=60&lines=BSc+(Hons)+in+Information+Technology;Full-Stack+MERN+Developer;Building+Electra+%E2%80%94+E-Commerce+Platform;Exploring+AI+%2F+ML+with+Python" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2FA084&center=true&vCenter=true&width=680&height=60&lines=BSc+(Hons)+in+Information+Technology;Full-Stack+MERN+Developer;Building+Electra+%E2%80%94+E-Commerce+Platform;Exploring+AI+%2F+ML+with+Python" alt="Typing Animation" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Kithsara-01&label=PROFILE+VIEWS&color=0D1117&style=for-the-badge&labelColor=2FA084" alt="Profile Views" />
-
-<br><br>
+<br>
 
 <a href="https://github.com/Kithsara-01">
 <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub" />
@@ -24,8 +27,6 @@
 
 </div>
 
-<br>
-
 ## About Me
 
 <img src="https://api.iconify.design/mdi/school-outline.svg?color=%232FA084" width="18" valign="middle"/> &nbsp;**BSc (Hons) in Information Technology** — Sri Lanka Institute of Information Technology (SLIIT), Third Year Student
@@ -38,8 +39,6 @@
 <br>
 <img src="https://api.iconify.design/mdi/lightning-bolt-outline.svg?color=%232FA084" width="18" valign="middle"/> &nbsp;Fun fact: also dabbled in game development with a pseudo-3D racing game in Pygame
 
-<br>
-
 ## Tech Stack
 
 <div align="center">
@@ -48,25 +47,25 @@
 <br>
 <img src="https://skillicons.dev/icons?i=js,java,python" />
 
-<br><br>
+<br>
 
 **Frontend**
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-<br><br>
+<br>
 
 **Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
-<br><br>
+<br>
 
 **Databases**
 <br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<br><br>
+<br>
 
 **Tools**
 <br>
@@ -77,10 +76,10 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0D1117&text=BUILDING%20%7C%20LEARNING%20%7C%20GROWING&fontColor=2FA084&fontSize=16&fontAlignY=55" />
-</div>
 
-<br>
+### <img src="https://api.iconify.design/mdi/hammer-wrench.svg?color=%232FA084" width="20" valign="middle"/>&nbsp; BUILDING &nbsp;•&nbsp; LEARNING &nbsp;•&nbsp; GROWING
+
+</div>
 
 ## Featured Project
 
@@ -104,8 +103,6 @@ A full-stack electronics retail platform built on the MERN stack, featuring a cu
 
 **Tech Stack:** MongoDB · Express.js · React · Node.js · Tailwind CSS
 
-<br>
-
 ## GitHub Statistics
 
 <div align="center">
@@ -127,8 +124,6 @@ A full-stack electronics retail platform built on the MERN stack, featuring a cu
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kithsara-01&hide_border=true&area=true&color=2FA084&line=2FA084&point=ffffff&bg_color=0D1117" />
 
 </div>
-
-<br>
 
 ## Let's Connect
 
@@ -152,12 +147,14 @@ A full-stack electronics retail platform built on the MERN stack, featuring a cu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2FA084&background=0D1117&center=true&vCenter=true&width=500&height=50&lines=Keep+Learning.;Keep+Building.;Keep+Growing." alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2FA084&center=true&vCenter=true&width=500&height=50&lines=Keep+Learning.;Keep+Building.;Keep+Growing." alt="Footer Animation" />
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 <sub>Thanks for visiting my GitHub profile! ⭐</sub>
+
+</div>
 
 </div>
